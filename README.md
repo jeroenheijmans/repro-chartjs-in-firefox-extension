@@ -2,6 +2,10 @@
 
 This repository is purely meant as a repro for a specific Chart.js issue.
 
+## ⚠️ Notice about updates
+
+Note that this repository is provided "as-is" and will most likely not receive any (security) updates.
+
 ## Instructions
 
 1. Clone this repo.
